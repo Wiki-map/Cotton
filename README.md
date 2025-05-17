@@ -2,7 +2,6 @@
 
 # Example:
 ```cpp 
-```cpp
 #include "cotton.h"
 
 int main() {
@@ -18,37 +17,10 @@ int main() {
     }
 }
 ```
-```
-``` 
-``` 
-```
-```
-```
-```
-```
-``` 
-```
-```
-```
-```
-```  
-```
-```
-```
-```
-```
-```
-```
-``` 
-```
-```
-```
-```
-# Note - i use this as a baseline for my projects
-
 # How to build:
     mkdir out
     cd out 
     cmake ./cotton
     cmake --build .
     ./Cotton.exe
+## Note - i use this as a baseline for my projects
