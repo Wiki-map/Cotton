@@ -20,7 +20,7 @@ int main() {
 # How to build:
     mkdir out
     cd out 
-    cmake ./cotton
+    cmake ../
     cmake --build .
     ./Cotton.exe
 ## Note - i use this as a baseline for my projects
